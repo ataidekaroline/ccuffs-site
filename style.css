@@ -54,7 +54,7 @@ nav .wrap-nav{position:absolute; top:50px; right:10px; height: 37px;}
 #pagi li {float: left;margin-right: 10px;}
 #pagi li a {display: block;	text-decoration: none; color: #D8BFD8;font: bold 11px Arial, sans-serif;padding: 5px 8px;
 	-webkit-border-radius: 3px;	-moz-border-radius: 3px;	border-radius: 3px;	background: #ffffff;}
-#pagi li a.current, #pagi li a:hover {color: #ffffff;	background: #DA251D;}
+#pagi li a.current, #pagi li a:hover {color: #ffffff;	background: #FFFF00;}
 footer {background-color:#D8BFD8; margin-top:30px;}
 footer .wrap-footer{padding:10px 0px; color:#ffffff;}
 footer .box{}
